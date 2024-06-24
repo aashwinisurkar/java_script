@@ -1,0 +1,20 @@
+.a1{
+    margin-top: 70px ;
+    width: 400px ;
+    margin-left: 600px ;
+}
+ .svgimg{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    bottom: 0;
+z-index: 10;
+
+width:100%;
+max-height: 600px;
+
+
+ }
+ .mx-auto{
+    margin-right: 400px;
+ }
